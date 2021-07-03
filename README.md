@@ -1,1 +1,2 @@
 # EASnake
+print("hello world")
